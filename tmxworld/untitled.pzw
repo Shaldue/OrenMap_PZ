@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<world version="1.0" width="2" height="2">
+<world version="1.0" width="5" height="5">
  <BMPToTMX>
   <tmxexportdir path="."/>
   <rulesfile path=""/>
