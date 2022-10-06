@@ -1,0 +1,4 @@
+version=0.0.0.1
+title=OrenMap
+description=Карта деревенской глуши.
+visibility=public
